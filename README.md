@@ -1,0 +1,2 @@
+# ociscripts
+Ociscripts for productivity
